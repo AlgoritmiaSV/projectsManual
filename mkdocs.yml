@@ -2,7 +2,7 @@ site_name: Projects
 site_url: https://docs.blackphp.com
 site_description: Manual de usuario de Proyectos
 site_author: Edwin Fajardo
-copyright: Copyright 2024 Algoritmia SV
+copyright: Copyright &copy;2024 Algoritmia SV
 nav:
   - Inicio: index.md
   - Usuario: usuario.md
